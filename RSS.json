@@ -1,0 +1,11 @@
+{"version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [{"title":"Jeff Sessions protests: thousands march after Trump fires attorney general","buttons":[{"url":"https://christiannewsnow.com/jeff-sessions-protests-thousands-march-after-trump-fires-attorney-general/","type":"url","caption":"Read More"}],"image_url":null,"action_url":"https://christiannewsnow.com/jeff-sessions-protests-thousands-march-after-trump-fires-attorney-general/"},{"title":"Here are the latest victims of the 307th mass shooting in 2018","buttons":[{"url":"https://christiannewsnow.com/here-are-the-latest-victims-of-the-307th-mass-shooting-in-2018/","type":"url","caption":"Read More"}],"image_url":null,"action_url":"https://christiannewsnow.com/here-are-the-latest-victims-of-the-307th-mass-shooting-in-2018/"}],
+        "image_aspect_ratio": "horizontal"
+      }
+    ]
+  }
+}
