@@ -1,0 +1,11 @@
+{"version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [{"title":"Southern Baptists: Losing Their Zeal for Temperance?","buttons":[{"url":"https://christiannewsnow.com/southern-baptists-losing-their-zeal-for-temperance/","type":"url","caption":"Read More"}],"image_url":null,"action_url":"https://christiannewsnow.com/southern-baptists-losing-their-zeal-for-temperance/"},{"title":"Scotland is first country to approve LGBTI school lessons","buttons":[{"url":"https://christiannewsnow.com/scotland-is-first-country-to-approve-lgbti-school-lessons/","type":"url","caption":"Read More"}],"image_url":null,"action_url":"https://christiannewsnow.com/scotland-is-first-country-to-approve-lgbti-school-lessons/"}],
+        "image_aspect_ratio": "horizontal"
+      }
+    ]
+  }
+}
